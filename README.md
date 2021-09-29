@@ -2,7 +2,7 @@
 
 ## Description
 
-
+![Demo Gif](./assets/budget-track.gif)
 ## Table of Contents
 * [Live Deployment](#live)
 * [Installation](#installation)
