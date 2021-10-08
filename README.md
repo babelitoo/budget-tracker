@@ -11,7 +11,7 @@ This is a full stack web app that helps a user track their budget using Mongodb 
 * [License](#license)
 
 ## Live Deployment
-https://intense-everglades-53850.herokuapp.com/
+https://dry-river-65459.herokuapp.com/
 
 ## Installation
 
